@@ -9,5 +9,5 @@
 #Dify
 #langgenius/dify-api:latest
 #langgenius/dify-api:0.15.3     latest就是0.15.3，根本不是原来指定的1.0.0，太坑了
-langgenius/dify-web:1.0.0
+langgenius/dify-web:latest
 
