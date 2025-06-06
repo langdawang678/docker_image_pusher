@@ -30,7 +30,7 @@
 #pgvector/pgvector:pg16
 
 
-vastdata/vastbase-vector:latest
+saopack/vastbase_g100:2.2.10.9104_amd
 #tensorchord/pgvecto-rs:pg16-v0.3.0
 
 
